@@ -1,1 +1,53 @@
-# BASIC-PERSONAL-WEBSITE
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Profile</title>
+</head>
+<body>
+
+    <h1>Asma Iftikhar</h1>
+
+    <h2>About Me</h2>
+    <p>Hello! My name is Asma Iftikhar. I am a CSC101 student at COMSATS University Islamabad. I am learning HTML in my computer science lab.</p>
+
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Reading</li>
+        <li>Learning about computers</li>
+        <li>Exploring new technology</li>
+        <li>Studying</li>
+    </ul>
+
+    <h2>My Academic Information</h2>
+    <table border="1">
+        <tr>
+            <th>Field</th>
+            <th>Information</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Asma Iftikhar</td>
+        </tr>
+        <tr>
+            <td>Course</td>
+            <td>CSC101</td>
+        </tr>
+        <tr>
+            <td>Program</td>
+            <td>BS Electronics and Computing</td>
+        </tr>
+        <tr>
+            <td>Semester</td>
+            <td>1st Semester</td>
+        </tr>
+    </table>
+
+    <h2>My Future Goal</h2>
+    <p>My goal is to become a skilled software developer and build useful applications that help people in everyday life.</p>
+
+    <h2>My Professional Profiles</h2>
+    <ul>
+        <li><a href="https://github.com/Asmaiftikhar">GitHub Profile</a></li>
+
+</body>
+</html>
